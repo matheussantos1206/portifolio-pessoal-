@@ -12,13 +12,10 @@
 ![capa do projeto ](img/capa.png)
 
 ## Descrição
-
-## Introdução
-
+nesse trabalho , pesquisamos projetos prontos e traduzimos para o github que temos usado ultimamente.E os exemplos foi feito de base para um projeto "nosso".
 ## Funcionalidades
-
+serve para exibir as habilidades e o estilo de trabalho que desenvolvemos.
 ### Tecnologias utilizadas
-
+HTML e CSS
 ## Fontes utilizadas
-
-## Autores
+google tradutor
